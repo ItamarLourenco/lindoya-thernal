@@ -20,7 +20,9 @@
       .cls-5 {
         fill: url(#pattern);
       }
-
+*{
+  font-family: Montserrat, sans-serif;
+}
       .cls-6 {
         fill: url(#pattern-2);
       }

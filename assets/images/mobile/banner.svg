@@ -12,7 +12,9 @@
       .cls-3 {
         fill: #ef7803;
       }
-
+*{
+  font-family: Montserrat, sans-serif;
+}
       .cls-4 {
         clip-path: url(#clip-path);
       }

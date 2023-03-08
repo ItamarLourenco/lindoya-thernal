@@ -19,7 +19,9 @@
 
       .cls-3, .cls-4, .cls-5 {
         letter-spacing: 0.03em;
-      }
+      }*{
+  font-family: Montserrat, sans-serif;
+}
 
       .cls-4 {
         fill: #33537f;

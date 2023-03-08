@@ -4,7 +4,7 @@
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 body{
-
+  background-color: #FFF;
 }
 header{
   background-color: #F3F3F3; 
@@ -132,7 +132,9 @@ header{
 
 .description{
   padding:0;
-  text-align: right;
+}
+.description img{
+  margin:80px auto;
 }
 @media screen and (max-width: 800px) {
   .description{
@@ -283,6 +285,7 @@ header{
   border:0;
   background-color: transparent;
   cursor: pointer;
+  width: 100% !important;
 }
 @media screen and (max-width: 800px) {
   .inscrevea-se--title{

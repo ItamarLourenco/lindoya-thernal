@@ -12,7 +12,9 @@
       .cls-3 {
         clip-path: url(#clip-path);
       }
-
+*{
+  font-family: Montserrat, sans-serif;
+}
       .cls-4 {
         fill: url(#pattern);
       }
